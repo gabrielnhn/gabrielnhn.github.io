@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jekyll page
+title: Gabriel Nascarella Hishida do Nascimento
 email: gabrielnhn@ufpr.br
 description: >- # this means to ignore newlines until "baseurl:"
   A Jekyll website for testing.

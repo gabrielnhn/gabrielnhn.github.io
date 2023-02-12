@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Gabriel Hishida
+## Gabriel Nascarella Hishida
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/u/55661167?v=4">
 

@@ -1,6 +1,7 @@
 title: Gabriel Nascarella Hishida
 url: "https://gabrielnhn.github.io"
-baseurl: ""
+# baseurl: ""
+newbaseurl: /
 
 markdown: kramdown
 

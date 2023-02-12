@@ -1,6 +1,6 @@
 title: Gabriel Nascarella Hishida
-url: ""
-baseurl: "/index"
+url: "https://gabrielnhn.github.io"
+baseurl: ""
 
 markdown: kramdown
 
@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/"
+   link: "/researcher"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"

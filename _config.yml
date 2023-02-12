@@ -29,7 +29,7 @@ github_username:  gabrielnhn
 
 # Build settings
 theme: minima
-plugins:
+plugins: 
   - jekyll-feed
 
 # Exclude from processing.

@@ -4,15 +4,16 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="https://avatars.githubusercontent.com/u/55661167?v=4">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hello there, I'm a Computer Science student at [Universidade Federal do Paraná](http://bcc.ufpr.br/), and I'm soon to graduate! 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm part of the [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team. You can see
+
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Robotics, Computer Vision and Machine Learning.
 
 ## Publications
 

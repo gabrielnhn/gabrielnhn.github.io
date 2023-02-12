@@ -1,26 +1,12 @@
 ---
 layout: default
 is_contact: true
+title: Contact
 ---
+**UFPR**: gabrielnhn at ufpr dot br
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+**GMail**: ielnascarella at gmail dot com
 
-* Phone: [+91-123123](tel:+91-123123)
+**Twitter**: [gabrielnhn](https://twitter.com/gabrielnhn)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+**LinkedIn**: [Gabriel Nascarella Hishida](https://www.linkedin.com/in/gabriel-nascarella-hishida/)

@@ -10,7 +10,10 @@ Hello there, I'm a Computer Science student at [Universidade Federal do Paraná]
 
 I'm interested in robotics, computer vision and machine learning.
 
-I'm part of the [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team. Watch our computer vision-based line follower robot complete its first track at RCX 2022: {YT Links will be available soon}.
+I'm part of the [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team. Watch our computer vision-based line follower robot complete its first track at RCX 2022: 
+* [Spectator POV](https://drive.google.com/file/d/13jQLvRatMAxQXDhhhWztNFT34ptf3a_2/view?usp=sharing)
+* [Robot POV](https://drive.google.com/file/d/1qnftp4b8_yvBsK6LlyaOee2ITNIrxgbI/view?usp=sharing)
+
 
 ## Publications
 

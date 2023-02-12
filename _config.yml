@@ -1,4 +1,4 @@
-title: Gabriel Nascarella Hishida
+title: Gabriel Nascarella Hishida's github.io website
 url: "https://gabrielnhn.github.io"
 # baseurl: ""
 newbaseurl: /
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
  - name: "Contact"
    link: "contact"

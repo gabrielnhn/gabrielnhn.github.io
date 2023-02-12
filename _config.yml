@@ -1,9 +1,8 @@
 title: Gabriel Nascarella Hishida
 url: ""
-baseurl: ""
+baseurl: "/index"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 

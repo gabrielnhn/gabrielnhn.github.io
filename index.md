@@ -17,4 +17,6 @@ I'm part of the [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Tea
 
 ## Publications
 
-* "Look where you’re going: Classifying drivers' attention through 3D gaze estimation" {Pdf will be available soon}.
+* "Look where you’re going: Classifying drivers' attention through 3D gaze estimation" 
+    * {Pdf will be available soon}.
+    * [GitHub](https://github.com/VRI-UFPR/LWYG-drivers-attention)

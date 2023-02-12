@@ -39,10 +39,11 @@
     .profile-picture {
         height: $image-size;
         width: $image-size;
-        position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
+        // position: static;
+        margin: 0px 0 0 15px;
+        float: none;
         border-radius: 50%;
+        vertical-align: middle;
         p & {
             padding: 0;
             margin: 0;

@@ -14,7 +14,5 @@ sass:
 nav:
  - name: "About"
    link: "index"
- - name: "Resume"
-   link: "/cv-may-2023.pdf"
  - name: "Contact"
    link: "contact"

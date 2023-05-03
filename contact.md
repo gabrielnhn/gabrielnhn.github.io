@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 title: Contact
 ---
-**UFPR**: gabrielnhn at ufpr dot br
+**UFPR**: gabrielnhn @ ufpr . br
 
-**GMail**: ielnascarella at gmail dot com
+**GMail**: ielnascarella @ gmail . com
 
 **Twitter**: [gabrielnhn](https://twitter.com/gabrielnhn)
 

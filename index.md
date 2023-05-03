@@ -4,7 +4,7 @@ layout: default
 
 <h2 style="text-align: center;">Gabriel Nascarella Hishida <img class="profile-picture" src="https://avatars.githubusercontent.com/u/55661167?v=4"></h2>
 
-I'm a BSc Computer Science student at [Universidade Federal do Paraná](http://bcc.ufpr.br/), and I'll be graduating soon! I'm interested in robotics, computer vision and machine learning.
+I'm a BSc Computer Science student at [Universidade Federal do Paraná](https://web.inf.ufpr.br/bcc/), and I'll be graduating soon! I'm interested in robotics, computer vision and machine learning.
 
 * [Curriculum (PDF)](./cv-may-2023.pdf)
 

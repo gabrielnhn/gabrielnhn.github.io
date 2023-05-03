@@ -6,8 +6,7 @@ layout: default
 
 I'm a BSc Computer Science student at [Universidade Federal do Paraná](http://bcc.ufpr.br/), and I'll be graduating soon! I'm interested in robotics, computer vision and machine learning.
 
-## Curriculum
-* [PDF](./cv-may-2023.pdf)
+* [Curriculum (PDF)](./cv-may-2023.pdf)
 
 
 I'm part of the [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team. Watch our computer vision-based line follower robot at RSM Challenge 2023: 

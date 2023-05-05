@@ -10,7 +10,7 @@ I'm a BSc Computer Science student at [Universidade Federal do Paraná](https://
 
 
 I'm part of the [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team. Watch our computer vision-based line follower robot at RSM Challenge 2023: 
-* [Completing the track](https://drive.google.com/file/d/13jQLvRatMAxQXDhhhWztNFT34ptf3a_2/view?usp=sharing)
+* [Completing the track](https://drive.google.com/file/d/1Cu3NfInp5yVSoehRa--6N87ItVzDy3o-/view?usp=share_link)
 * [Robot's POV](https://drive.google.com/file/d/120FX-vgDSVecLkO5IVpLtX19qO9a1s0t/view?usp=sharing)
 * [(old) ROS2 Simulation](https://www.youtube.com/watch?v=E3LZQBVdJgE)
 

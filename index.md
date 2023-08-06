@@ -4,14 +4,14 @@ layout: default
 
 <h2 style="text-align: center;">Gabriel Nascarella Hishida <img class="profile-picture" src="https://avatars.githubusercontent.com/u/55661167?v=4"></h2>
 
-I'm a graduate Computer Science student, getting my master's at [Universidade Federal do Paraná](https://web.inf.ufpr.br/bcc/)! I'm interested in robotics, computer vision and deep learning.
+I'm a graduate Computer Science student, getting my master's at [Universidade Federal do Paraná](https://web.inf.ufpr.br/bcc/). I'm interested in robotics, computer vision and deep learning.
 
 * [Curriculum (PDF)](./cv-may-2023.pdf)
 
 
 # Projects
 
-I'm part of the [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team. Watch our computer vision-based line follower robot at RoboCore Experience 2023: 
+I'm part of the [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team. Watch our computer vision-based line follower robot at RoboCore Experience 2023, where we received the Innovation Award!
 
 [Line Follower](https://www.youtube.com/watch?v=ufpI7cly8JM)
 

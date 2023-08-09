@@ -64,14 +64,17 @@
     }
 
     .icon-container {
-        display: inline-block;
-    }
+    display: flex;
+    align-items: center;
+}
 
-   .icon_img {
-    max-width: 50px;
-    max-height: 50px;
+.icon_img {
+    max-width: 40px;
+    max-height: 40px;
     vertical-align: middle;
-    }
+    margin-right: 10px; /* Adjust as needed */
+}
+
 
 
         

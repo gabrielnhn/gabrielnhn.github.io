@@ -4,7 +4,7 @@
 
     <p>I'm a graduate computer scientist, getting my master's at <a href="https://web.inf.ufpr.br/bcc/">Universidade Federal do Paraná</a>. I'm interested in robotics, computer vision and deep learning.</p>
 
-    <div class="icon-container" style="margin: 0 auto;">
+    <div class="icon-container">
         <a href="https://www.python.org/"><img class="icon_img" alt="Python" width="40px" src="https://img.icons8.com/color/240/000000/python.png"></a>
         <a href="https://pytorch.org/"><img class="icon_img" alt="Pytorch" width="30px" src="https://pytorch.org/assets/images/logo-icon.svg"></a>
         <a href="https://uopencv.org/"><img class="icon_img" alt="OpenCV" width="30px" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></a>
@@ -24,7 +24,7 @@
 
     <h2>Publications</h2>
 
-    <h4>"Look where you’re going: Classifying drivers' attention through 3D gaze estimation"</h3>
+    <h4>"Look where you’re going: Classifying drivers' attention through 3D gaze estimation"</h4>
     <ul>
         <li><a href="./Thesis_LWYG.pdf">PDF</a></li>
         <li><a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub Code</a></li>
@@ -33,7 +33,7 @@
 
     <a href="https://www.youtube.com/watch?v=_muyewFN-GU"><img src="https://img.youtube.com/vi/_muyewFN-GU/0.jpg" alt="Video demo"></a>
 
-    <h3>(Soon) "VRI-GazeNet: 3D Gaze Estimation for Real-time Applications"</h3>
+    <h4>(Soon) "VRI-GazeNet: 3D Gaze Estimation for Real-time Applications"</h4>
     <ul>
         <li><a href="https://github.com/VRI-UFPR/GazeNet">GitHub Code</a></li>
         <li><a href="https://www.youtube.com/watch?v=s49nZorNE7A">Video demo</a></li>

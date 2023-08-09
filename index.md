@@ -13,6 +13,8 @@
         <a href="https://www.ros.org/"><img class="icon_img" alt="ROS" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png"></a>
     </div>
 
+
+<h3>CV: <a href="./CV Aug 2023.pdf">August 2023</a> Robotics Team.</h3> 
 <h1>Projects</h1>
 
 <p>I'm part of the <a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR</a> Robotics Team.</p> 
@@ -34,5 +36,5 @@
 
 <a href="https://www.youtube.com/watch?v=s49nZorNE7A"><img src="https://img.youtube.com/vi/s49nZorNE7A/0.jpg" alt="Video demo"></a>
 
-<p><a href="http://lattes.cnpq.br/5118923055291342">Curriculum (Lattes, pt-br)</a></p>
+<p><a href="http://lattes.cnpq.br/5118923055291342">CV Lattes (pt-br)</a></p>
 </div>

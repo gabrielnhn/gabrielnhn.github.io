@@ -55,11 +55,13 @@
         }
     }
     img {
-        text-align: center;
+        // text-align: center;
         width: 50%;
+        display: block;
+        margin: 0 auto;
     }
    .icon_img {
-    width: 20px; /* Adjust the size as needed */
+    height: 30px; /* Adjust the size as needed */
     border-radius: 50%;
     vertical-align: middle;
 

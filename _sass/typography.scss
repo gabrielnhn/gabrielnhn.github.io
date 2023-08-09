@@ -68,12 +68,21 @@
     align-items: center;
 }
 
+.icon-container {
+    display: flex;
+    align-items: center;
+}
+
 .icon_img {
-    max-width: 100px;
-    height: 40px;
+    max-width: 130px;
+    max-height: 40px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
     vertical-align: middle;
     margin-right: 10px; /* Adjust as needed */
 }
+
 
 
 

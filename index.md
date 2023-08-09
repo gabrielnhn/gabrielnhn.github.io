@@ -1,13 +1,10 @@
 <div style="text-align: center;">
-    ---
-    layout: default
-    ---
 
     <h2>Gabriel Nascarella Hishida <img class="profile-picture" src="https://avatars.githubusercontent.com/u/55661167?v=4"></h2>
 
     <p>I'm a graduate computer scientist, getting my master's at <a href="https://web.inf.ufpr.br/bcc/">Universidade Federal do Paraná</a>. I'm interested in robotics, computer vision and deep learning.</p>
 
-    <div class="icon-container">
+    <div class="icon-container" style="margin: 0 auto;">
         <a href="https://www.python.org/"><img class="icon_img" alt="Python" width="40px" src="https://img.icons8.com/color/240/000000/python.png"></a>
         <a href="https://pytorch.org/"><img class="icon_img" alt="Pytorch" width="30px" src="https://pytorch.org/assets/images/logo-icon.svg"></a>
         <a href="https://uopencv.org/"><img class="icon_img" alt="OpenCV" width="30px" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></a>
@@ -27,7 +24,7 @@
 
     <h2>Publications</h2>
 
-    <h3>"Look where you’re going: Classifying drivers' attention through 3D gaze estimation"</h3>
+    <h4>"Look where you’re going: Classifying drivers' attention through 3D gaze estimation"</h3>
     <ul>
         <li><a href="./Thesis_LWYG.pdf">PDF</a></li>
         <li><a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub Code</a></li>

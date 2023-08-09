@@ -7,7 +7,7 @@
 <div class="icon-container">
         <a href="https://www.python.org/"><img class="icon_img" alt="Python" width="40px" src="https://img.icons8.com/color/240/000000/python.png"></a>
         <a href="https://pytorch.org/"><img class="icon_img" alt="Pytorch" width="30px" src="https://pytorch.org/assets/images/logo-icon.svg"></a>
-        <a href="https://uopencv.org/"><img class="icon_img" alt="OpenCV" width="30px" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></a>
+        <a href="https://opencv.org/"><img class="icon_img" alt="OpenCV" width="30px" src="https://opencv.org/wp-content/uploads/2022/05/logo.png"></a>
         <a href="https://ubuntu.com/"><img class="icon_img" alt="Ubuntu" width="40px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></a>
         <a href="https://www.ros.org/"><img class="icon_img" alt="ROS" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png"></a>
     </div>

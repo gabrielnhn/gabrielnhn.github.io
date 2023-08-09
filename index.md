@@ -15,7 +15,8 @@
 
 <h1>Projects</h1>
 
-<p>I'm part of the <a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR</a> Robotics Team. Watch our computer vision-based line follower robot at RoboCore Experience 2023, where we received the Innovation Award!</p>
+<p>I'm part of the <a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR</a> Robotics Team.</p> 
+<p>Watch our computer vision-based line follower robot at RoboCore Experience 2023, where we received the Innovation Award!</p>
 
 <a href="https://www.youtube.com/watch?v=ufpI7cly8JM">Line Follower Video</a>
 
@@ -24,19 +25,12 @@
 <h2>Publications</h2>
 
 <h4>"Look where you’re going: Classifying drivers' attention through 3D gaze estimation"</h4>
-<ul>
-    <li><a href="./Thesis_LWYG.pdf">PDF</a></li>
-    <li><a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub Code</a></li>
-    <li><a href="https://www.youtube.com/watch?v=_muyewFN-GU">Video demo</a></li>
-</ul>
+    <p><a href="./Thesis_LWYG.pdf">PDF</a> <a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub Code</a> <a href="https://www.youtube.com/watch?v=_muyewFN-GU">Video demo</a> </p>
 
 <a href="https://www.youtube.com/watch?v=_muyewFN-GU"><img src="https://img.youtube.com/vi/_muyewFN-GU/0.jpg" alt="Video demo"></a>
 
 <h4>(Soon) "VRI-GazeNet: 3D Gaze Estimation for Real-time Applications"</h4>
-<ul>
-    <li><a href="https://github.com/VRI-UFPR/GazeNet">GitHub Code</a></li>
-    <li><a href="https://www.youtube.com/watch?v=s49nZorNE7A">Video demo</a></li>
-</ul>
+    <p><a href="https://github.com/VRI-UFPR/GazeNet">GitHub Code</a> <a href="https://www.youtube.com/watch?v=s49nZorNE7A">Video demo</a></p>
 
 <a href="https://www.youtube.com/watch?v=s49nZorNE7A"><img src="https://img.youtube.com/vi/s49nZorNE7A/0.jpg" alt="Video demo"></a>
 

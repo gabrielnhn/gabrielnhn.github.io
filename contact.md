@@ -5,7 +5,7 @@ title: Contact
 ---
 **UFPR**: gabrielnhn @ ufpr . br
 
-**GMail**: ielnascarella @ gmail . com
+**GMail**: gabrielnhn @ duck . com
 
 **Twitter**: [gabrielnhn](https://twitter.com/gabrielnhn)
 

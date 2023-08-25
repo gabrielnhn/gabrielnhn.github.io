@@ -2,9 +2,7 @@
 
  <h2>Gabriel Nascarella Hishida <img class="profile-picture" src="https://avatars.githubusercontent.com/u/55661167?v=4"></h2>
 
-<p>I'm a graduate MSc. Informatics student at <a href="https://ufpr.br/">UFPR</a>,</p> 
-<p>researching robotics, computer vision, and deep learning at the </p>
-<p> Laboratory of Vision, Robotics and Imaging <a href="https://web.inf.ufpr.br/vri/">(VRI)</a> under the guidance of Prof. Eduardo Todt.</p>
+<p>I'm a graduate MSc. Informatics student at <a href="https://ufpr.br/">UFPR</a>,<br>researching robotics, computer vision, and deep learning at the <br>Laboratory of Vision, Robotics and Imaging <a href="https://web.inf.ufpr.br/vri/">(VRI)</a> under the guidance of Prof. Eduardo Todt.</p>
 
 
 <div class="icon-container">
@@ -17,9 +15,7 @@
 
 <h1>Projects</h1>
 
-<p>I'm part of the <a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR</a> Robotics Team.</p> 
-<p>Watch my computer vision-based line follower robot at </p>
-<p>RoboCore Experience 2023, where we received the Innovation Award.</p>
+<p>I was part of the <a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR</a> Robotics Team.<br>Take a look at my camera-based line follower robot at<br>RoboCore Experience 2023, where we were awarded the Innovation Award!</p>
 
 <a href="https://www.youtube.com/watch?v=ufpI7cly8JM">Line Follower Video</a>
 

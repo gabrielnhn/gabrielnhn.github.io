@@ -2,7 +2,7 @@
 
  <h2>Gabriel Nascarella Hishida <img class="profile-picture" src="https://avatars.githubusercontent.com/u/55661167?v=4"></h2>
 
-<p>I'm a graduate MSc. Informatics student at <a href="https://ufpr.br/">UFPR</a>,<br>researching robotics, computer vision, and deep learning at the <br>Laboratory of Vision, Robotics and Imaging <a href="https://web.inf.ufpr.br/vri/">(VRI)</a> under the guidance of Prof. Eduardo Todt.</p>
+<p>I'm a graduate MSc. Informatics student at <a href="https://ufpr.br/">UFPR</a>,<br>researching robotics, computer vision, and deep learning at the <br>Laboratory of Vision, Robotics and Imaging <a href="https://web.inf.ufpr.br/vri/">(VRI)</a> under the guidance of Prof. <a href="https://www.inf.ufpr.br/todt/">Eduardo Todt</a>.</p>
 
 
 <div class="icon-container">

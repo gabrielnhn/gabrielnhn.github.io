@@ -37,6 +37,6 @@
 
 <a href="https://www.youtube.com/watch?v=s49nZorNE7A"><img src="https://img.youtube.com/vi/s49nZorNE7A/0.jpg" alt="Video demo"></a>
 
-<h4><a href="./CV Aug 2023.pdf">CV (August 2023)</a></h4> 
+<h4><a href="./CV.pdf">CV (September 2023)</a></h4> 
 <h4><a href="http://lattes.cnpq.br/5118923055291342">CV Lattes (pt-br)</a></h4>
 </div>

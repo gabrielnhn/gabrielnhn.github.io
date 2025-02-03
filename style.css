@@ -1,0 +1,52 @@
+/* Light mode */
+/* @media (prefers-color-scheme: light) {
+    body {
+    }
+} */
+/* Dark mode */
+/* @media (prefers-color-scheme: dark) {
+    body {
+        background-color: rgb(27, 6, 48);
+        color: white;
+    }
+} */
+
+head
+{
+    display: flex;
+    gap: 10px;
+}
+
+body
+{
+    background-color: rgb(118, 118, 118);
+    color: black;
+
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    font-size:x-large;
+}
+pre
+{
+    text-align: center;
+    white-space: pre-wrap;  
+}
+.profile-picture
+{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    /* padding: 5px; */
+    width: 150px;
+    float:left
+}
+
+#image_name
+{
+    padding-top: 50px;
+    display: flex;
+    gap: 10px;
+    /* align-items: center; */
+    /* align-self: center; */
+    /* font-size: small; */
+}

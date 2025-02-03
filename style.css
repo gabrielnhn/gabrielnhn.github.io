@@ -8,7 +8,9 @@ head
 
 body
 {
-    background-color: rgb(118, 118, 118);
+    /* background-color: rgb(118, 118, 118); */
+    background-color: #dddddd;
+
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size:large;
@@ -39,6 +41,26 @@ body
     padding-top: 50px;
     gap: 20px;
 }
+
+.link-container
+{
+    /* background-color: #dddddd; */
+    max-width: fit-content;
+}
+
+.link
+{
+    font-size: x-large;
+    display: inline;
+    /* display: block; */
+    padding: 10px;
+    text-decoration-line: none;
+}
+
+
+
+
+
 
 /* Light mode */
 /* @media (prefers-color-scheme: light) {

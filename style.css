@@ -9,11 +9,12 @@ head
 body
 {
     padding-top: 30px;
-    background-color: #dddddd;
+    /* background-color: #dddddd; */
+    background-color: #5884ad;
     color: black;
     font-family: Arial;
     font-size: large;
-    padding-left: 50px;
+    /* padding-left: 50px; */
     /* gap: 10px; */
 }
 
@@ -67,7 +68,7 @@ body
     position: relative;
     /* align-self: ; */
     float: right;
-    padding-right: 50px;
+    /* padding-right: 50px; */
     /* display: grid; */
     /* display: list-item; */
     gap: 10px;
@@ -116,6 +117,20 @@ pre
     }
 }
 
+
+.section {
+    /* align-items: center; */
+    /* text-align: center; */
+    /* width: 100%; */
+    background-color: #ddd;
+    padding: 20px;
+    /* padding-left: 10px; */
+    /* padding-top: 20px; */
+    /* margin-bottom: 20px; */
+    margin-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
 
 /* Light mode */
 /* @media (prefers-color-scheme: light) {

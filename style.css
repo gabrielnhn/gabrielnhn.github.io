@@ -69,7 +69,7 @@ body
     float: right;
     padding-right: 50px;
     /* display: grid; */
-    display: list-item;
+    /* display: list-item; */
     gap: 10px;
     justify-content: center;
 }

@@ -1,65 +1,120 @@
 head
 {
+    max-height: 10px;
     /* vertical-align:middle; */
-    display: flex;
-    gap: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    /* display: flex; */
+    /* gap: 10px; */
 }
 
 body
 {
-    /* background-color: rgb(118, 118, 118); */
+    padding-top: 30px;
     background-color: #dddddd;
-
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:large;
+    font-family: Arial;
+    font-size: large;
     padding-left: 50px;
-    gap: 10px;
+    /* gap: 10px; */
 }
+
 .profile-picture
 {
-    border: 1px solid #ddd;
+    border: 1px solid #330b35;
     border-radius: 4px;
     /* padding: 5px; */
-    width: 150px;
+    width: 180px;
     float:left
 }
 
 #contact
 {
-    /* display: block; */
-    gap: 20px;
-    /* display: flex; */
-    /* float:inline-end; */
-    /* float:right; */
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    float: left;
+    p{
+        font-weight: normal;
+        font-family: monospace;
+        text-decoration: dashed;
+        padding-left: 20px;
+    }
+}
+
+#text-beside
+{
+    display: flex;
+    /* align-items: baseline; */
+    /* align-content: center; */
 }
 
 #image_name
 {
+    /* display: flex; */
+    float: right;
+}
+
+#upperblock
+{
     display: flex;
+    justify-content: space-between;
+    align-self: center;
     padding-top: 50px;
-    gap: 20px;
+    padding-bottom: 20px;
 }
 
 .link-container
 {
-    /* background-color: #dddddd; */
-    max-width: fit-content;
+    position: relative;
+    /* align-self: ; */
+    float: right;
+    padding-right: 50px;
+    /* display: grid; */
+    display: list-item;
+    gap: 10px;
+    justify-content: center;
 }
 
-.link
-{
+.link {
+    margin: 10px;
+    /* padding-bottom: 10px; */
+    display: flex;
+    color: white;
+    background-color: rgba(12, 116, 172, 0.765);
     font-size: x-large;
+    border-radius: 4px;
+    /* margin-left: 10px; */
+    min-width: 150px;
+    height: 50px;
+    font-weight: bold;
+    text-decoration-line: none;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+}
+
+
+.link-small
+{
     display: inline;
-    /* display: block; */
-    padding: 10px;
     text-decoration-line: none;
 }
 
+pre
+{
+    /* text-align: center; */
+    font-family: Arial;
+}
 
+#aboutme
+{
+    p{
+        padding-left: 30px;
+    };
 
-
+    a{
+        text-decoration-line: none;
+    }
+}
 
 
 /* Light mode */

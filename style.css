@@ -60,6 +60,7 @@ body
 }
 .image_name
 {
+    font-family: Arial;
     display: flex;
     /* display: inline; */
     /* float: left; */
@@ -143,7 +144,8 @@ pre
     /* align-items: center; */
     /* text-align: center; */
     /* width: 100%; */
-    width: 850px;
+    /* width: 1000px; */
+    width: fit-content;
     background-color: #ddd;
     padding: 20px;
     /* padding-top: 20px; */
@@ -159,11 +161,14 @@ pre
     text-align: center;
     display: flex;
     gap: 10px;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
     /* padding */
 
     .section{
         /* display: block; */
-        /* width: 600px; */
+        width: 650px;
         /* padding: 20px; */
     }
 }

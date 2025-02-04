@@ -9,7 +9,7 @@ head
 body
 {
     text-align: center;
-    display: table;
+    display: block;
     vertical-align: middle;
     padding-top: 30px;
     /* background-color: #dddddd; */
@@ -27,6 +27,7 @@ body
     border-radius: 4px;
     /* padding: 5px; */
     width: 180px;
+    height: 180px;
     /* float:left */
 }
 
@@ -137,13 +138,12 @@ pre
 
 
 .section {
-    /* display: table-row; */
     display: inline-block;
     /* position: fixed; */
     /* align-items: center; */
     /* text-align: center; */
     /* width: 100%; */
-    width: 1000px;
+    width: 850px;
     background-color: #ddd;
     padding: 20px;
     /* padding-top: 20px; */
@@ -151,6 +151,21 @@ pre
     margin-bottom: 30px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    height: fit-content;
+}
+
+#lowersections
+{
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    /* padding */
+
+    .section{
+        /* display: block; */
+        /* width: 600px; */
+        /* padding: 20px; */
+    }
 }
 
 /* Light mode */

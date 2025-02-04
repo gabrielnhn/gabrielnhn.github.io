@@ -109,12 +109,14 @@ img{
 .section {
     display: block;
     break-inside: avoid; /* Prevents text from splitting between columns */
-    width: 850px;
+    
+    min-width: fit-content;
     text-align: center;
-
 
     background-color: #ddd;
     padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-bottom: 30px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
@@ -127,6 +129,11 @@ img{
     display: block;
     column-count: 2;
     height: fit-content;
+    .section{
+        /* max-width: 700px; */
+        padding: 10px;
+    }
+    padding-left: 10px;
 }
 
 #allprojects

@@ -171,6 +171,9 @@ pre
         width: 650px;
         /* padding: 20px; */
     }
+    img{
+        max-width: 600px;
+    }
 }
 
 /* Light mode */

@@ -8,6 +8,9 @@ head
 
 body
 {
+    text-align: center;
+    display: table;
+    vertical-align: middle;
     padding-top: 30px;
     /* background-color: #dddddd; */
     background-color: #5884ad;
@@ -24,61 +27,61 @@ body
     border-radius: 4px;
     /* padding: 5px; */
     width: 180px;
-    float:left
+    /* float:left */
 }
 
 #contact
 {
-    font-family: sans-serif;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     padding-left: 20px;
-    float: left;
+    /* float: left; */
     p{
+        text-align: center;
         font-weight: normal;
         font-family: monospace;
-        text-decoration: dashed;
         padding-left: 20px;
     }
 }
 
 #text-beside
 {
-    display: flex;
+    display: block;
+    text-align: center;
     /* align-items: baseline; */
     /* align-content: center; */
 }
 
-#image_name
-{
-    /* display: flex; */
-    float: right;
-}
 
 #upperblock
 {
-    display: flex;
-    justify-content: space-between;
+    /* display: flex; */
+    display: block;
+    /* justify-content: space-between; */
+    text-align: center;
     align-self: center;
-    padding-top: 50px;
-    padding-bottom: 20px;
+    /* padding-top: 10px; */
+    /* padding-bottom: 20px; */
+}
+#image_name
+{
+    text-align: center;
+    display: flex;
+    /* float: right; */
 }
 
 .link-container
 {
-    position: relative;
-    /* align-self: ; */
-    float: right;
-    /* padding-right: 50px; */
-    /* display: grid; */
-    /* display: list-item; */
-    gap: 10px;
-    justify-content: center;
+    /* position: relative; */
+    /* gap: 10px; */
+    /* justify-content: center; */
 }
 
 .link {
     margin: 10px;
     /* padding-bottom: 10px; */
-    display: flex;
+    /* display: flex; */
     color: white;
     background-color: rgba(12, 116, 172, 0.765);
     font-size: x-large;
@@ -108,7 +111,10 @@ pre
 
 #aboutme
 {
+    text-align: center;
     p{
+        /* display: inline-block; */
+        text-align: center;
         padding-left: 30px;
     };
 
@@ -119,12 +125,15 @@ pre
 
 
 .section {
+    /* display: table-row; */
+    display: inline-block;
+    /* position: fixed; */
     /* align-items: center; */
     /* text-align: center; */
     /* width: 100%; */
+    width: 1000px;
     background-color: #ddd;
     padding: 20px;
-    /* padding-left: 10px; */
     /* padding-top: 20px; */
     /* margin-bottom: 20px; */
     margin-bottom: 30px;

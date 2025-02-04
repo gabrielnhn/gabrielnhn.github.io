@@ -32,44 +32,48 @@ body
 
 #contact
 {
-    text-align: center;
+    /* display: flex; */
+    display: block;
+    /* float: right; */
+    text-align: left;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    padding-left: 20px;
+    padding-left: 50px;
     /* float: left; */
     p{
-        text-align: center;
+        /* text-align: center; */
         font-weight: normal;
         font-family: monospace;
-        padding-left: 20px;
+        /* padding-left: 20px; */
     }
 }
-
+#upperblock
+{
+    display: inline-block;
+    /* display: inline; */
+    /* justify-content: space-between; */
+    /* text-align: center; */
+    /* align-self: center; */
+    /* padding-top: 10px; */
+    /* padding-bottom: 20px; */
+}
+.image_name
+{
+    display: flex;
+    /* display: inline; */
+    /* float: left; */
+    /* text-align: center; */
+}
 #text-beside
 {
-    display: block;
+    /* display: block; */
+    display: flex;
     text-align: center;
     /* align-items: baseline; */
     /* align-content: center; */
 }
 
 
-#upperblock
-{
-    /* display: flex; */
-    display: block;
-    /* justify-content: space-between; */
-    text-align: center;
-    align-self: center;
-    /* padding-top: 10px; */
-    /* padding-bottom: 20px; */
-}
-#image_name
-{
-    text-align: center;
-    display: flex;
-    /* float: right; */
-}
 
 .link-container
 {
@@ -111,6 +115,7 @@ pre
 
 #aboutme
 {
+    display: block;
     text-align: center;
     p{
         /* display: inline-block; */

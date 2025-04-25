@@ -43,41 +43,59 @@
 <div id="lowersections">
     
     <div class="section">
-        
-        <h2>Projects</h2>
-        
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ufpI7cly8JM?si=8P1sLh-2CuRiOdMD" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>I was part of a robotics team called <a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR </a> Robotics Team.<br> We received an award for out camera-based line follower robot in RCX 2023.</p>
-        
+        <h4>“Blurred Lines: Does Blurring preserve privacy?”</h4>
+        <img src="blurprog.png" width="auto">
+        <img src="blurredlines.png" width="auto">
+        <p>Does Gaussian Blur protect your privacy? In this <a href="https://hackmd.io/@NuBBYZ8yTFOEq2l6BdVF_w/HkxikJXaJx">HackMD blog post</a>, my colleagues and I try to identify for a normal (sharp) image and another blurred image whether they depict the same person by applying triplet loss on two distinct CNNs.</p>
     </div>
-
+    
+   
     <div class="section">
-        <h3>University Projects</h3>
-        <img src="exp3.png" width="auto">
+
+
         <h4>”Using Conditional Generative Adversarial Networks for Data Augmentation in Pneumothorax
+        <img src="exp3.png" width="auto">
         Classification”</h4>
-        <p>Experimented on GAN architectures in order to generate lung images from poor segmentation inputs for pneumothorax classification (<a href="https://drive.google.com/file/d/1_kYF7IAo4eA9TCQSblHp1RdM7QYxd0Gh/view?usp=sharing">PDF</a>, <a href="https://gitlab.c3sl.ufpr.br/gnhnascimento/cgan-pneumothorax">GitLab</a>)</p>
-        
-        <img src="mosaic.png">
-        <h4>”Photomosaic from dominant patch color”</h4>
-        <p>Based on 20x20 .ppm tiles. <a href="https://github.com/gabrielnhn/photomosaic">GitHub</a></p>
+        <p>Experimented on GAN architectures in order to generate lung images from poor segmentation inputs for pneumothorax classification. Several experiments on how to integrate positional encoding in Generative Adversarial Networks to generate consistent but dissimilar results. In the end we produce lung images, but unfortunately the output images didn't grasp the concept of pneumothorax. (<a href="https://drive.google.com/file/d/1_kYF7IAo4eA9TCQSblHp1RdM7QYxd0Gh/view?usp=sharing">PDF</a>, <a href="https://gitlab.c3sl.ufpr.br/gnhnascimento/cgan-pneumothorax">GitLab</a>)</p>
 
+
+    </div>
+
+
+    <div class="section">
+        
+        <!-- <h2>Publications (From BSc.)</h2> -->
+        
+        <h4>“Look where you’re going: Classifying drivers' attention through 3D gaze estimation".</h4>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_muyewFN-GU?si=MZVZuNZVBp-f8C8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p> 2023 BSc thesis. Trained simple ML models used in a pipeline after a Gaze Estimation model to classify the output vector as 'distracted' or not. (<a href="./Thesis_LWYG.pdf">PDF</a> | <a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub Repo</a>)</p>
         
     </div>
 
     <div class="section">
+        <h4>“Camera-based line follower”</h4>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ufpI7cly8JM?si=8P1sLh-2CuRiOdMD" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>I was part of a robotics team, <a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR </a>.<br> We received the <b>Innovation Award</b> for our image-based line follower in RCX 2023. I've implemented many handcrafted methods to robustly identify the track under inconsistent and adverse lighting condition / framerate.</p>
+    
+    </div>
 
-        <h2>Publications (From BSc.)</h2>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/_muyewFN-GU?si=MZVZuNZVBp-f8C8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <h4>"Look where you’re going: Classifying drivers' attention through 3D gaze estimation". 2023/1 Bsc thesis</h4>
-        <p><a href="./Thesis_LWYG.pdf">PDF</a> | <a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub Repo</a></p>
-
+    <div class="section">
+        <h4>“VRI-GazeNet: 3D Gaze Estimation for Real-time Applications" LARS 2023</h4>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/s49nZorNE7A?si=ZF9m_jqcMP3TEM2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <h4>"VRI-GazeNet: 3D Gaze Estimation for Real-time Applications" LARS 2023</h4>
-        <p><a href="http://dx.doi.org/10.1109/LARS/SBR/WRE59448.2023.10333044">PDF</a> | <a href="https://github.com/VRI-UFPR/GazeNet">GitHub Repo</a></p>
+        <p>Trained a MobileNetv2 on the Gaze360 dataset. Achieved decent results using a relatively small architecture. <a href="http://dx.doi.org/10.1109/LARS/SBR/WRE59448.2023.10333044">PDF</a> | <a href="https://github.com/VRI-UFPR/GazeNet">GitHub Repo</a></p>
 
     </div>
+
+    <div class="section">
+        
+        <h4>“Photomosaic from dominant patch color”</h4>
+        <img src="mosaic.png">
+        <p> Replace image patches with other 20x20 .ppm tiles based on dominant colour. <a href="https://github.com/gabrielnhn/photomosaic">GitHub</a></p>
+        
+    </div>
+
+    
 </div>
 
 </body>

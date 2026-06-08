@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+<div class="section" id="hi">
+    <h2>
+        Dear Chloé,
+    </h2>
+
+    <img src="./royal.jpg">
+    
+    <p>
+        <br>As you may know, it's 🇧🇷 Brazilian Lover's Day 🩷 this week.
+        <br>
+        <br>I'd like to ask you in this silly way 
+        <br>whether you'd like to hang out with me this Saturday.
+        <br>
+        <br>I have many ideas; some of them cost money,
+        <br> and they're varying both in time, mood and location;
+        <br>
+        <br>To know your interests would make planning things out a bit easier...
+        <br>So you are kindly asked to tell me which of these activities you'd like to do!
+        <br>I'd gladly pay for some of these as a gift too! Keep it in mind.
+        <br>
+
+    </p>
+
+</div>
+
+<div class="section" id="form-section">
+    <h3>🩷Lover's Day Form🩷</h3>
+
+    <h4>In this Saturday (June 13th), I would like to:</h4>
+
+    <!-- <form action="https://formspree.io/f/mgobkjvw" method="POST"> -->
+    <form>
+
+        <div>
+            <label for="sushi">&bullet; Get all-you-can-eat sushi for lunch! (multiple cities available) 🍣</label>
+            <input type="checkbox" id="sushi" name="sushi" value="interest"/>
+        </div>
+        <br>
+        <div>
+            <label for="museum">&bullet; Go to the Kunstmuseum in Den Haag! 🖼️</label>
+            <input type="checkbox" id="museum" name="museum" value="interest"/>
+        </div>
+        <br>
+        <div>
+            <label for="grotemarkt">&bullet; Go to the Grote Markt in Den Haag! 🍺</label>
+            <input type="checkbox" id="grotemarkt" name="grotemarkt" value="interest"/>
+        </div>
+        <br>
+
+        <div>
+            <label for="markthal">&bullet; Go to the Markthal in Rotterdam! 😋</label>
+            <input type="checkbox" id="markthal" name="markthal" value="interest"/>
+        </div>
+        <br>
+        <div>
+            <label for="delftcentrum">&bullet; Go for drinks and snacks in Delft Centrum! 🍷</label>
+            <input type="checkbox" id="delftcentrum" name="delftcentrum" value="interest"/>
+        </div>
+        <br>
+
+        <div>
+            <label for="pizza">&bullet; Get some pizza and stay in Delfgauw! 🍕</label>
+            <input type="checkbox" id="pizza" name="pizza" value="interest"/>
+        </div>
+        <br>
+
+        <div>
+            <label for="cook">&bullet; Cook some good fish in Chloé's kitchen! 🐟</label>
+            <input type="checkbox" id="cook" name="cook" value="interest"/>
+        </div>
+        <br>
+
+        <div>
+            <label for="rejection">&bullet; I don't want to do anything, I dislike Gabriel 🥱</label>
+            <input type="checkbox" id="rejection" name="rejection" value="interest"/>
+        </div>
+        <br>
+
+
+        <textarea id="comments" placeholder="Any other ideas or comments?" name="comments" rows="5" cols="80" ></textarea>       
+
+        <h3>
+            <button class="button-1" role="button" type="submit" onclick="myFunction()">Submit and Gabriel know!</button>
+        </h3>
+    </form>
+    
+
+    <h2 hidden id="thanks">Thank you! Your response was supposedly sent.</h2>
+    
+</div>
+
+
+<p><s>I was never much into web design so sorry about the uglyness of this page lmaooooooo</s></p>
+<p><s>Also if this page fails for some reason just send me a message idk</s></p>
+</body>
+
+<script>
+    function myFunction()
+    {
+        document.getElementById('thanks').hidden = false;
+    }
+</script>

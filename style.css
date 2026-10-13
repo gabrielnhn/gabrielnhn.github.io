@@ -10,7 +10,8 @@ body {
     justify-content: start; 
     text-align: center;
     padding-top: 30px;
-    background-color: #5884ad;
+    /* background-color: #5884ad; */
+    background-color: #4b6e94;
     color: black;
     font-family: Arial;
     font-size: large;
@@ -113,7 +114,8 @@ img{
     min-width: fit-content;
     text-align: center;
 
-    background-color: #ddd;
+    /* background-color: #ddd; */
+    background-color: #fff;
     padding: 20px;
     padding-top: 10px;
     padding-bottom: 10px;

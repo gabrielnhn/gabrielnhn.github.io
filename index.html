@@ -32,31 +32,40 @@
 
     <div id="aboutme">
         <p >
-            I'm a Data Science and Artificial Intelligence masters student writing my thesis <br> with the
-            <a href="https://graphics.tudelft.nl"> Computer Graphics and Visualization Group</a> at
-            <a href="https://www.tudelft.nl/">TU Delft</a>.<br>
-            My interests lie in 3D visual computing and robotics.<br>
+            I just graduated from <a href="https://www.tudelft.nl/">TU Delft</a> in the MSc programme for Data Science and Artificial Intelligence, <br> working with the
+            <a href="https://graphics.tudelft.nl"> Computer Graphics and Visualization Group</a>.
             <br>
-            Before this, I graduated with honours in BSc Computer Science at <a href="https://ufpr.br/">UFPR</a>,
-            <br> and was studying CNNs/GANs in the Laboratory of Vision, Robotics and Imaging <a href="https://web.inf.ufpr.br/vri/">(VRI)</a>.
+            <br>
+            Before, I graduated with honours in BSc Computer Science at <a href="https://ufpr.br/">UFPR</a>,
+            <br> doing research in the  <a href="https://web.inf.ufpr.br/vri/">Laboratory of Vision, Robotics and Imaging</a>.
+            <br>
+            <br>My interests lie in 3D visual computing, deep learning, and robotics. It would be cool to apply <br> these concepts to help and understand people, rather than just show-off to other computer scientists.
         </p>
     </div>
 </div>
 
 <div id="lowersections">
     
+     <div class="section">
+        <h4>BoundView: Captionless Point Cloud Completion via <br>Boundary Alignment and Surface Blending</h4>
+        <img src="BoundView.png" width="auto">
+        <p> Point cloud completion can be tough, especially when the scanned object is very incomplete. But by finding the right viewpoint, we may better understand what the whole object was supposed to be. I proposed a Boundary Alignment strategy to find such viewpoint, and avoid "propagated gaps" (see figure) when we try to complete the shape using 2D-to-3D methods. <a href="https://repository.tudelft.nl/record/uuid:403c3284-2995-4228-9d5d-4a679c08c7c4">(MSc Thesis</a>  | <a href="https://github.com/gabrielnhn/BoundView">GitHub)</a> </p>
+    
+    </div>
+
+
     <div class="section">
         <h4>Blurred Lines: Does Blurring preserve privacy?</h4>
-        <img src="blurprog.png" width="auto">
+        <!-- <img src="blurprog.png" width="auto"> -->
         <img src="blurredlines.png" width="auto">
-        <p>Does Gaussian Blur protect your privacy? In this <a href="https://hackmd.io/@NuBBYZ8yTFOEq2l6BdVF_w/HkxikJXaJx">HackMD blog post</a>, my colleagues and I try to identify for a normal (sharp) image and another blurred image whether they depict the same person by applying triplet loss on two distinct CNNs.</p>
+        <p>Does Gaussian Blur protect your privacy? In this <a href="https://hackmd.io/@NuBBYZ8yTFOEq2l6BdVF_w/HkxikJXaJx">HackMD blog post</a>, my colleagues and I try to identify for a normal (sharp) image and another blurred image whether they depict the same person by applying triplet loss on two distinct CNNs. Results show it might be possible.</p>
     </div>
     
    
     <div class="section">
 
 
-        <h4>”Using Conditional Generative Adversarial Networks for Data Augmentation in Pneumothorax
+        <h4>Using Conditional Generative Adversarial Networks <br>for Data Augmentation in Pneumothorax
         <img src="exp3.png" width="auto">
         Classification”</h4>
         <p>Experimented on GAN architectures in order to generate lung images from poor segmentation inputs for pneumothorax classification. Several experiments on how to integrate positional encoding in Generative Adversarial Networks to generate consistent but dissimilar results. In the end we produce lung images, but unfortunately the output images didn't grasp the concept of pneumothorax. (<a href="https://drive.google.com/file/d/1_kYF7IAo4eA9TCQSblHp1RdM7QYxd0Gh/view?usp=sharing">PDF</a>, <a href="https://gitlab.c3sl.ufpr.br/gnhnascimento/cgan-pneumothorax">GitLab</a>)</p>
@@ -69,9 +78,9 @@
         
         <!-- <h2>Publications (From BSc.)</h2> -->
         
-        <h4>Look where you’re going: Classifying drivers' attention through 3D gaze estimation.</h4>
+        <h4>Look where you’re going: Classifying drivers' attention <br>through 3D gaze estimation.</h4>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/_muyewFN-GU?si=MZVZuNZVBp-f8C8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p> 2023 BSc thesis. Trained simple ML models used in a pipeline after a Gaze Estimation model to classify the output vector as 'distracted' or not. (<a href="./Thesis_LWYG.pdf">PDF</a> | <a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub Repo</a>)</p>
+        <p>I wanted to classify whether a driver is paying attention to the road without requiring thousands of samples, so I leveraged existing 3D gaze estimation models. I trained simple ML models used in a pipeline to classify the gaze vector as 'distracted' or not. (<a href="./Thesis_LWYG.pdf">BSc Thesis</a> | <a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub</a>)</p>
         
     </div>
 
@@ -84,9 +93,9 @@
 
 
     <div class="section">
-        <h4>VRI-GazeNet: 3D Gaze Estimation for Real-time Applications - LARS 2023</h4>
+        <h4>VRI-GazeNet: 3D Gaze Estimation for Real-time Applications</h4>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/s49nZorNE7A?si=ZF9m_jqcMP3TEM2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>Trained a MobileNetv2 on the Gaze360 dataset. Achieved decent results using a relatively small architecture. <a href="http://dx.doi.org/10.1109/LARS/SBR/WRE59448.2023.10333044">PDF</a> | <a href="https://github.com/VRI-UFPR/GazeNet">GitHub Repo</a></p>
+        <p>Gaze estimation models were too heavy and too slow for my project, so I trained my own model using a MobileNetv2 on the Gaze360 dataset. Achieved decent results using a relatively small architecture. <a href="http://dx.doi.org/10.1109/LARS/SBR/WRE59448.2023.10333044">PDF</a> | <a href="https://github.com/VRI-UFPR/GazeNet">GitHub</a></p>
 
     </div>
 
